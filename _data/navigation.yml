@@ -2,6 +2,15 @@
   url: "/"
   side: left
 
+- title: toc1
+  url: "/toc1/"
+  side: left
+  dropdown:
+  - title: "toc1-1"
+    url: "/toc1-1/"
+  - title: "toc1-2"
+    url: "/toc1-2/"
+
 - title: Getting Started
   url: "/getting-started/"
   side: left

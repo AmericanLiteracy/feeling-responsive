@@ -1,15 +1,32 @@
-- title: Start
+- title: Spelling Reform
   url: "/"
   side: left
 
-- title: toc1
-  url: "/toc1/"
+- title: soundSpel
+  url: "/soundSpel/"
+  side: left
+
+- title: About Us
+  url: "/about_us/"
   side: left
   dropdown:
-  - title: "toc1-1"
-    url: "/toc1-1/"
-  - title: "toc1-2"
-    url: "/toc1-2/"
+  - title: "mission"
+    url: "/mission/"
+  - title: "board"
+    url: "/board/"
+  - title: "history"
+    url: "/history/"
+
+- title: Resources
+  url: "/resources/"
+  side: left
+  dropdown:
+  - title: "ALC publications"
+    url: "/alc_publications/"
+
+- title: Start
+  url: "/"
+  side: left
 
 - title: Getting Started
   url: "/getting-started/"
